@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /* SW Expert Academy LV.1 / Q.1936 - 201230
 
-A와 B가 가위바위보를 하였다.
+A와 B가 가위바위보를 하였다. 
 
 가위는 1, 바위는 2, 보는 3으로 표현되며 A와 B가 무엇을 냈는지 입력으로 주어진다.
 

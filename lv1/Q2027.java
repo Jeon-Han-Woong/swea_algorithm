@@ -3,7 +3,7 @@ package algorithm;
 /* SW Expert Academy LV.1 / Q.2027 - 201230
 
 주어진 텍스트를 그대로 출력하세요.
-
+ 
 출력
 
 #++++
