@@ -3,7 +3,7 @@ package algorithm;
 import java.util.Scanner;
 
 /* SW Expert Academy LV.1 / Q.2050 - 201229
- 
+  
 알파벳으로 이루어진 문자열을 입력 받아 각 알파벳을 1부터 26까지의 숫자로 변환하여 출력하라.
 
 

@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Scanner;
 
-/* SW Expert Academy LV.1 / Q.2056 - 201229
+/* SW Expert Academy LV.1 / Q.2056 - 201229 
 
 연월일 순으로 구성된 8자리의 날짜가 입력으로 주어진다.
 
